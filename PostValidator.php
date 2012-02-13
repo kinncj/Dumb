@@ -1,9 +1,9 @@
 <?php
-namespace Arizona\Common;
 /**
  * Dump Post Validator
  * @example DumbPostValidator::check($_POST,array('observacao','opcional'))
  * @author kinncj
+ * I know, it's a trash... but works
  *
  */
 class PostValidator
